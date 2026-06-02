@@ -1,0 +1,6 @@
+{
+  "name": "Folklore Katha",
+  "description": "Premium Nepali Ghost Stories, Regional Folklore, & Underrated Creepypastas reader. Formulate mystical stories, attach visual illustrations, customized themes, offline storage sync and notification systems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
